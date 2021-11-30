@@ -1,0 +1,9 @@
+#uno{border: red 5px solid;display:inline;}
+img{display:inline; border: red 5px solid;}
+#dosi,#tresi{margin-top:10px}
+#tresi{position:relative;right:30px;}
+#dos{display:inline-block;height:100px;width:160px;border: red 5px solid;position:relative;box-sizing:content-box;}
+#cuatroi{display:inline-block;height:300px;width:300px;border: red 5px solid;position:relative; right:30px;padding-left:20px}
+#tres{right:30px;position:relative;border: red 5px solid;position:relative;display:inline-block;height:100px;width:160px;box-sizing:content-box;}
+#cuatro{position:relative;border: red 5px solid;position:relative;display:inline-block;height:100px;width:160px; bottom:60px; left:40px;box-sizing:content-box;}
+#fijo{position:fixed;right:0;margin:0;bottom:0;border: green 5px solid;height:80px;width:190px;box-sizing:content-box;}
